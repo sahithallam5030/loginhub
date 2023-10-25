@@ -1,11 +1,11 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "a backend login application",
+  "description": "a backend application",
   "main": "index.js",
   "scripts": {
-    "build":"npm i",
-    "dev": "nodemon index.js"
+    "start": "nodemon index.js",
+    "build": "npm install"
   },
   "author": "sahith",
   "license": "ISC",
